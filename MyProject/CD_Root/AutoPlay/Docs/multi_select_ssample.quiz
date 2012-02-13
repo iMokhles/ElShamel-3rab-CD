@@ -1,0 +1,44 @@
+<quiz>
+	<title>Sample Quiz</title>
+	<details>
+		<totalquestions>5</totalquestions>
+		<questionstoask>3</questionstoask>
+	</details>
+	<items>
+		<item>
+			<question type="ms">Which numbers are greater than 11?</question>
+			<answer>10</answer>
+			<answer correct="y">12</answer>
+			<answer correct="y">14</answer>
+			<answer correct="y">16</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 12?</question>
+			<answer correct="y">13</answer>
+			<answer>11</answer>
+			<answer correct="y">15</answer>
+			<answer correct="y">17</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 13?</question>
+			<answer correct="y">14</answer>
+			<answer>12</answer>
+			<answer>11</answer>
+			<answer correct="y">24</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 14?</question>
+			<answer correct="y">15</answer>
+			<answer>13</answer>
+			<answer>12</answer>
+			<answer>10</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 15?</question>
+			<answer correct="y">16</answer>
+			<answer correct="y">17</answer>
+			<answer correct="y">18</answer>
+			<answer correct="y">19</answer>
+		</item>
+	</items>
+</quiz>

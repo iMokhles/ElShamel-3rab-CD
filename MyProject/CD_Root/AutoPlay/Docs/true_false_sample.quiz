@@ -1,0 +1,109 @@
+<quiz>
+	<title>Sample Quiz</title>
+	<details>
+		<totalquestions>40</totalquestions>
+		<questionstoask>10</questionstoask>
+	</details>
+	<items>
+		<item>
+			<question type="tf">The number 20 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 21 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 22 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 23 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 24 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 25 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 26 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 27 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 28 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 29 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 31 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 32 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 33 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 34 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 35 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 36 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 37 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 38 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 39 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 40 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+	</items>
+</quiz>

@@ -1,0 +1,249 @@
+<quiz>
+	<title>Sample Quiz</title>
+	<details>
+		<totalquestions>40</totalquestions>
+		<questionstoask>10</questionstoask>
+	</details>
+	<items>
+		<item>
+			<question type="mc">What number comes immediately after 1?</question>
+			<answer correct="y">2</answer>
+			<answer>3</answer>
+			<answer>4</answer>
+			<answer>5</answer>	
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 2?</question>
+			<answer correct="y">3</answer>
+			<answer>5</answer>
+			<answer>6</answer>
+			<answer>7</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 3?</question>
+			<answer correct="y">4</answer>
+			<answer>7</answer>
+			<answer>9</answer>
+			<answer>1</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 4?</question>
+			<answer>7</answer>
+			<answer>4</answer>
+			<answer correct="y">5</answer>
+			<answer>8</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 5?</question>
+			<answer>9</answer>
+			<answer>1</answer>
+			<answer correct="y">6</answer>
+			<answer>12</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 6?</question>
+			<answer>12</answer>
+			<answer>4</answer>
+			<answer>8</answer>
+			<answer correct="y">7</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 7?</question>
+			<answer>4</answer>
+			<answer>9</answer>
+			<answer correct="y">8</answer>
+			<answer>2</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 8?</question>
+			<answer correct="y">9</answer>
+			<answer>13</answer>
+			<answer>24</answer>
+			<answer>67</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 9?</question>
+			<answer>4</answer>
+			<answer>2</answer>
+			<answer>1</answer>
+			<answer correct="y">10</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 10?</question>
+			<answer>4</answer>
+			<answer>6</answer>
+			<answer correct="y">11</answer>
+			<answer>23</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 11?</question>
+			<answer>10</answer>
+			<answer correct="y">12</answer>
+			<answer correct="y">14</answer>
+			<answer correct="y">16</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 12?</question>
+			<answer correct="y">13</answer>
+			<answer>11</answer>
+			<answer correct="y">15</answer>
+			<answer correct="y">17</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 13?</question>
+			<answer correct="y">14</answer>
+			<answer>12</answer>
+			<answer>11</answer>
+			<answer correct="y">24</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 14?</question>
+			<answer correct="y">15</answer>
+			<answer>13</answer>
+			<answer>12</answer>
+			<answer>10</answer>
+		</item>
+		<item>
+			<question type="ms">Which numbers are greater than 15?</question>
+			<answer correct="y">16</answer>
+			<answer correct="y">17</answer>
+			<answer correct="y">18</answer>
+			<answer correct="y">19</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 16?</question>
+			<answer correct="y">17</answer>
+			<answer>18</answer>
+			<answer>19</answer>
+			<answer>20</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 17?</question>
+			<answer correct="y">18</answer>
+			<answer>19</answer>
+			<answer>20</answer>
+			<answer>21</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 18?</question>
+			<answer correct="y">19</answer>
+			<answer>16</answer>
+			<answer>13</answer>
+			<answer>11</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 19?</question>
+			<answer correct="y">20</answer>
+			<answer>30</answer>
+			<answer>40</answer>
+			<answer>50</answer>
+		</item>
+		<item>
+			<question type="mc">What number comes immediately after 20?</question>
+			<answer correct="y">21</answer>
+			<answer>28</answer>
+			<answer>35</answer>
+			<answer>42</answer>
+		</item>
+		<item>
+			<question type="tf">The number 20 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 21 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 22 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 23 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 24 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 25 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 26 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 27 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 28 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 29 is greater than 30?</question>
+			<answer>True</answer>
+			<answer correct="y">False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 31 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 32 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 33 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 34 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 35 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 36 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 37 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 38 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 39 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+		<item>
+			<question type="tf">The number 40 is greater than 30?</question>
+			<answer correct="y">True</answer>
+			<answer>False</answer>
+		</item>
+	</items>
+</quiz>
